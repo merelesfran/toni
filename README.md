@@ -129,7 +129,7 @@ Desde la GUI → botón **⚙ Avanzado**:
 Para máxima precisión en nombres propios, descargá [`ggml-medium.bin`](https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-medium.bin) (~500 MB) y colocalo junto a `TONI.exe`. Reiniciá y Toni lo detecta solo.
 
 ---
-
+```
 ## 📁 Estructura de archivos
 
 
@@ -149,6 +149,8 @@ TONI/
     ├── ggml-small.bin
     ├── ggml.dll / whisper.dll
     └── vosk-model-small-es-0.42/
+
+```
 
 ---
 
