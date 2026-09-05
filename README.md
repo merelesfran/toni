@@ -1,8 +1,3 @@
-
-
-Acá tenés el **README.md** completo, listo para pegar en la raíz del repo:
-
-```markdown
 <div align="center">
 
 # 💬 TONI
@@ -137,7 +132,7 @@ Para máxima precisión en nombres propios, descargá [`ggml-medium.bin`](https:
 
 ## 📁 Estructura de archivos
 
-```
+
 TONI/
 ├── TONI.exe                    # Ejecutable principal
 ├── toni_config.json            # Configuración del usuario (se genera solo)
@@ -154,7 +149,6 @@ TONI/
     ├── ggml-small.bin
     ├── ggml.dll / whisper.dll
     └── vosk-model-small-es-0.42/
-```
 
 ---
 
