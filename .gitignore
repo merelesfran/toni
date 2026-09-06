@@ -1,0 +1,26 @@
+# Binarios de voz (se bajan aparte)
+whisper-cli.exe
+ggml-*.bin
+*.dll
+vosk-model-*/
+
+# Build
+build/
+dist/
+Output/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Estado local (se genera al correr)
+toni.log
+toni_config.json
+toni_update_state.json
+recordatorios.json
+apps_scan.json
+alias_extra.json
+links_extra.json
+correcciones.json
+_toni_frase.wav
